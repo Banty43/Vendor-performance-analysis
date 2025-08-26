@@ -53,6 +53,6 @@ Review low-performing vendors/brands to cut costs and optimize working capital.
 
 Add time-based tracking (Year/Quarter slicers) in future dashboards to monitor performance trends.
 
-🔹 Conclusion
+# Conclusion
 
 The vendor performance dashboard demonstrates strong profitability with a few high-performing vendors and brands driving growth. However, low turnover and underperforming vendors highlight opportunities for cost optimization. With improved vendor diversification and performance management, profitability can be further enhanced.
