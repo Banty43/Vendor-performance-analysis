@@ -72,7 +72,7 @@ The objective is to evaluate vendors across dimensions like purchase contributio
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](Screenshot 2025-08-25 212440.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
