@@ -108,11 +108,11 @@ The objective is to evaluate vendors across dimensions like purchase contributio
    git clone https://github.com/<your-username>/vendor-performance-analysis.git
 2.Open the Jupyter Notebook:
 
-  A.Untitled.ipynb → for ingestion + logging (reading 5 raw tables)
+     A.Untitled.ipynb → for ingestion + logging (reading 5 raw tables)
 
-  B.Untitled1.ipynb → for summary table creation
+     B.Untitled1.ipynb → for summary table creation
 
-  C.Vendor Performance Analysis.ipynb → for exploratory analysis + vendor insights (EDA + visualization prep)
+     C.Vendor Performance Analysis.ipynb → for exploratory analysis + vendor insights (EDA + visualization prep)
 
 3.Explore the Power BI dashboard (.pbix file in Dashboard/ folder).
 
